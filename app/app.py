@@ -299,4 +299,4 @@ st.dataframe(
 )
 
 st.markdown("---")
-st.markdown("Built with ❤️ using Python, Streamlit, XGBoost, and Plotly")
+st.markdown("Built by Mudit using Python, Streamlit, XGBoost, and Plotly")
