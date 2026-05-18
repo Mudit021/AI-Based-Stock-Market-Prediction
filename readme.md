@@ -37,6 +37,7 @@ The project uses XGBoost Regression for forecasting future stock prices using en
 ## Deployment
 
 The application is deployed using Streamlit Cloud.
+https://ai-based-stock-market-prediction.streamlit.app/
 
 ## Run Locally
 
